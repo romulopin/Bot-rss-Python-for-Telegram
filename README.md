@@ -45,3 +45,9 @@ Este programa consiste em um código Python que utiliza a biblioteca feedparser 
 3 - Certifique-se de ter um bot Telegram configurado e obtenha o token do bot.
 
 4 - Defina o token do bot na variável bot_token.
+
+# Instalando as Dependências
+
+pip install feedparser requests schedule
+
+Certifique-se de executar esse comando em seu terminal ou prompt de comando, tendo o Python e o pip corretamente configurados em seu ambiente. Isso irá instalar todas as bibliotecas necessárias para executar o programa.
